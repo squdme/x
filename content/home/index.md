@@ -1,6 +1,6 @@
 ---
 headless: true
-title: Hugo Comments Test-Site
+title: Squd.me - Johan
 ---
 
 <div align="center">
