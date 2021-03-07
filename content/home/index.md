@@ -9,4 +9,11 @@ description: Great your friends.
 <br><br>
 <h1 id="username">Johan</h1>
 <img width="30" height="30" src="/verified/hahayes.svg"></img>
-</div>
+</div><br><center>
+
+> Hay talento sólo falta apoyarlo.
+<br>
+
+19 años
+<br>
+_ESIME Zacatenco_
