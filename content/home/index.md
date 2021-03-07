@@ -1,7 +1,7 @@
 ---
 headless: true
 title: Squd.me
-description: Great your friends.
+description: Greet your friends.
 ---
 
 <div align="center">
