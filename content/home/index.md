@@ -12,7 +12,7 @@ description: Great your friends.
 <h1 id="username">Johan</h1>
 
 <img width="30" height="30" src="/verified/hahayes.svg"></img>
-</div><br><center>
+</div><center>
 
 _"Hay talento sólo falta apoyarlo"_
 <br>
