@@ -4,7 +4,7 @@
         {{ range $comments := .Site.Data.comments }}
             {{ range . }}
                 <div class="w-full flex flex-col font-light my-8 mx-auto">
-                    <span class="block">{{ .date | dateFormat "01/02/06, 3:04:05 PM" }}</span>
+                    <span class="block">{{ .date | dateFormat "01/02/06" }}</span>
                     <p class="">{{ .comment }}</p>
                 </div>
             {{ end }}
