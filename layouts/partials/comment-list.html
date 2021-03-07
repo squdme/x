@@ -3,10 +3,9 @@
         <h3 class="text-dark text-center">Comentarios</h3>
         {{ range $comments := .Site.Data.comments }}
             {{ range . }}
-                <div class="w-full flex flex-col font-light border-b border-solid  my-8 mx-auto">
-                    <span class="block">Posted at: {{ .date | dateFormat "Mon, 02 Jan. 2006, 15:04 MST" }}</span>
-                    <span class="block">By: {{ .name }}</span>
-                    <p class="">Comment:<br>{{ .comment }}</p>
+                <div class="w-full flex flex-col font-light my-8 mx-auto">
+                    <span class="block">{{ .date | dateFormat "01/02/06, 3:04:05 PM" }}</span>
+                    <p class="">{{ .comment }}</p>
                 </div>
             {{ end }}
         {{ end }}
