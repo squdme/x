@@ -326,7 +326,3 @@ template {
 [hidden] {
   display: none !important;
 }
-
-.rounded-sm {
-  border-radius: 3.125rem;
-}
