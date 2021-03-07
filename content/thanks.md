@@ -1,7 +1,5 @@
 ---
-title: Thank you
+title: Gracias!
 ---
 
-Thanks for the comment, we'll process that and it should be available soon.
-
-[Go back to where you came from](/)
+Ayayay tu comentario se ha publicado, dentro de unos minutos estará visible. ✌️
