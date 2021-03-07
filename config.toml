@@ -8,7 +8,6 @@ disableKinds = ["RSS","taxonomy","taxonomyTerm","sitemap"] #remove this when blo
 summaryLength = 40
 
 [params]
-    author = "squdme"
     title = "Squd.me: Greet your friends."
     description = "Hello world, squdme."
     images = ["/img/favicon.png"]
