@@ -5,6 +5,7 @@
             {{ range . }}
                 <div class="w-full flex flex-col font-light my-8 mx-auto">
                     <span class="block">{{ .date | dateFormat "01/02/06" }}</span>
+                    <span class="block"><br>{{ .name }}</span>
                     <p class="">{{ .comment }}</p>
                 </div>
             {{ end }}
