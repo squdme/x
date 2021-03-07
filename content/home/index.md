@@ -24,5 +24,4 @@ a tu mujer también"_
 <br>
 🐣
 
-<br>
-<a href="https://instagram.com/johandraew">🎉 Crea tu perfil aquí 🎉</a>
+<a href="https://squd.me">🎉 Crea tu perfil aquí 🎉</a>
