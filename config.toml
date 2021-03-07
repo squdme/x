@@ -14,6 +14,4 @@ summaryLength = 40
     author = "squdme"
     title = "Squd.me: Greet your friends."
     description = "Hello world, squdme."
-    DateForm = "02.01.2006"
-    showReadTime = 1
     images = ["/img/favicon.png"]
