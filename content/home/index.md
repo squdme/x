@@ -13,7 +13,7 @@ description: Great your friends.
 <h1 id="username">Johan</h1>
 </div><center>
 
-_"Hay talento sólo falta apoyarlo"_
+_"Vamos pa lo mismo, pero ahora son un chingo"_
 <br>
 
 19 años
