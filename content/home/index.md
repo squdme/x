@@ -16,9 +16,13 @@ description: Greet your friends.
 <h1 id="username">Johan</h1>
 </div><center>
 
-_"Vamos pa lo mismo, pero ahora son un chingo"_
+_"Si tu perro le mueve la cola al vecino, entonces
+a tu mujer también"_
 <br>
 
 19 años
 <br>
 🐣
+
+<br>
+<a href="https://instagram.com/johandraew">🎉 Crea tu perfil aquí 🎉</a>
