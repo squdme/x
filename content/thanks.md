@@ -1,5 +1,5 @@
 ---
-title: Gracias!
+title: Quien te viera!
 ---
 
-Ayayay tu comentario se ha publicado, dentro de unos minutos estará visible. ✌️
+Tu comentario se ha publicado, dentro de unos minutos estará visible. ✌️
