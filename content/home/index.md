@@ -1,6 +1,6 @@
 ---
 headless: true
-title: Squd.me - Johan
+title: Squd.me
 ---
 
 <div align="center">
