@@ -16,8 +16,7 @@ description: Greet your friends.
 <h1 id="username">Johan</h1>
 </div><center>
 
-_"Si tu perro le mueve la cola al vecino, entonces
-a tu mujer también"_
+_"Soy malo para escribrir frases :("_
 <br>
 
 19 años
